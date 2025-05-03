@@ -19,6 +19,12 @@ A web application designed to help users select cost-effective GPU instances for
 
 ---
 
+## Demo
+![App Screenshot](./P1.jpg)
+![App Screenshot](./P2.jpg)
+
+---
+
 ## Tech Stack
 
 - **Frontend:** React, JavaScript
